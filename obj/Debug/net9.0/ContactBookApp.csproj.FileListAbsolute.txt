@@ -1,0 +1,15 @@
+C:\Users\Osayande\Downloads\Project_new\Question_1\ContactBookApp\bin\Debug\net9.0\ContactBookApp.exe
+C:\Users\Osayande\Downloads\Project_new\Question_1\ContactBookApp\bin\Debug\net9.0\ContactBookApp.dll
+C:\Users\Osayande\Downloads\Project_new\Question_1\ContactBookApp\obj\Debug\net9.0\ContactBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osayande\Downloads\Project_new\Question_1\ContactBookApp\obj\Debug\net9.0\ContactBookApp.AssemblyInfoInputs.cache
+C:\Users\Osayande\Downloads\Project_new\Question_1\ContactBookApp\obj\Debug\net9.0\ContactBookApp.AssemblyInfo.cs
+C:\Users\Osayande\Downloads\Project_new\Question_1\ContactBookApp\obj\Debug\net9.0\ContactBookApp.csproj.CoreCompileInputs.cache
+C:\Users\Osayande\Downloads\Project_new\Question_1\ContactBookApp\obj\Debug\net9.0\ContactBookApp.sourcelink.json
+C:\Users\Osayande\Downloads\Project_new\Question_1\ContactBookApp\obj\Debug\net9.0\ContactBookApp.dll
+C:\Users\Osayande\Downloads\Project_new\Question_1\ContactBookApp\obj\Debug\net9.0\refint\ContactBookApp.dll
+C:\Users\Osayande\Downloads\Project_new\Question_1\ContactBookApp\obj\Debug\net9.0\ContactBookApp.pdb
+C:\Users\Osayande\Downloads\Project_new\Question_1\contactbookapp\bin\Debug\net9.0\ContactBookApp.deps.json
+C:\Users\Osayande\Downloads\Project_new\Question_1\contactbookapp\bin\Debug\net9.0\ContactBookApp.runtimeconfig.json
+C:\Users\Osayande\Downloads\Project_new\Question_1\contactbookapp\bin\Debug\net9.0\ContactBookApp.pdb
+C:\Users\Osayande\Downloads\Project_new\Question_1\contactbookapp\obj\Debug\net9.0\ContactBookApp.genruntimeconfig.cache
+C:\Users\Osayande\Downloads\Project_new\Question_1\contactbookapp\obj\Debug\net9.0\ref\ContactBookApp.dll
